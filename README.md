@@ -21,6 +21,7 @@
   <li><b>Изучаю Frontend 2 месяца</b></li>
   <li><b>Навыки:</b> HTML5 (MIDDLE+), CSS (BASIC), JavaScript (JUNIOR)</li>
   <li><b>Изучаю:</b> QA в Game Dev, Unreal Engine 5</li>
+  <li><b>Изучаю:</b> музыка,танцевальный продюсер J&K</li>
 </ul>
 
 ---
