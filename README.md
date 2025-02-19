@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="color: #00FF00; font-weight: bold; font-size: 18px;">
-  🟢 Junior Frontend Dev | 🎮 Game Dev Enthusiast | 🎸 Music Lover
+  🟢 Junior Frontend Dev | 🎮 Game Dev Enthusiast | 🎸 Music Producer
 </p>
 
 ---
